@@ -12,7 +12,7 @@ Java JDK 17, Node.js, npm, MySQL, Docker
 
 # Backend (Spring Boot) ⚙️
 
-Clonez le dépôt : git clone https://github.com/votre-utilisateur/gestion-ferme.git
+Clonez le dépôt : git clone [https://github.com/ouarriorxx/ProjetBack-Front.git]
 Accédez au dossier backend : cd gestion-ferme/backend
 Configurez la base de données dans le fichier application.properties.
 Lancez l'application : ./mvnw spring-boot:run
