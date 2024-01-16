@@ -1,17 +1,14 @@
-## Projet de Gestion de Ferme
+## Projet de Gestion de Ferme 🚜🌾
 
 # Introduction
 
-Ce projet vise à développer un système de gestion de ferme intégrant Spring Boot pour le backend et React pour le frontend. Il offre des fonctionnalités permettant de suivre et de gérer divers aspects liés à la gestion d'une ferme.
+Ce projet a pour objectif de créer un système de gestion de ferme intégrant Spring Boot pour le backend et React pour le frontend. Il propose des fonctionnalités pour suivre et gérer divers aspects liés à l'exploitation d'une ferme.
 
-# Prérequis
+# Technologies 
 
-Java JDK 17
-Node.js
-npm
-Mysql
-Docker
-Configuration
+Java JDK 17, Node.js, npm, MySQL, Docker
+
+## Configuration
 
 # Backend (Spring Boot)
 
@@ -26,16 +23,13 @@ Accédez au dossier frontend : cd gestion-ferme/frontend
 Installez les dépendances : npm install
 Configurez l'URL du backend dans le fichier .env.
 Lancez l'application : npm start
-Fonctionnalités
 
-Gestion des cultures et des parcelles.
-Suivi des ressources matérielles et humaines.
-Visualisation des rapports de production.
-Contributions
+# Fonctionnalités
 
-Les contributions sont les bienvenues! Veillez à créer une branche pour chaque fonctionnalité ou correctif et soumettez une demande de tirage une fois terminé.
+• Gestion des cultures et des parcelles.
+• Suivi des ressources matérielles et humaines.
+• Visualisation des rapports de production.
 
-Licence
+# Contributions
 
-Ce projet est sous licence MIT.
-
+Les contributions sont les bienvenues ! Assurez-vous de créer une branche pour chaque fonctionnalité ou correctif, puis soumettez une demande de tirage une fois terminé. 🌱🤝
