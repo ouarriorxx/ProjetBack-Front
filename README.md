@@ -24,6 +24,11 @@ Installez les dépendances : npm install
 Configurez l'URL du backend dans le fichier .env.
 Lancez l'application : npm start
 
+# La base de donnée : 
+
+![image](https://github.com/ouarriorxx/ProjetBack-Front/assets/143946046/7d520c32-ec9c-4648-a0c5-c0e757b57507)
+
+
 # Fonctionnalités
 
 • Gestion des cultures et des parcelles.
