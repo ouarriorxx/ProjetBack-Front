@@ -27,7 +27,9 @@ Lancez l'application : npm start
 # Fonctionnalités
 
 • Gestion des cultures et des parcelles.
+
 • Suivi des ressources matérielles et humaines.
+
 • Visualisation des rapports de production.
 
 # Contributions
