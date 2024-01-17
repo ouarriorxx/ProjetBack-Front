@@ -40,6 +40,12 @@ Lancez l'application : npm start
 
 ![WhatsApp Image 2024-01-16 à 23 40 24_c7d786f8](https://github.com/ouarriorxx/ProjetBack-Front/assets/143946046/8d49d17a-24b7-424c-9e8e-701a82baf728)
 
+# User : 
+
+en tabt qu'utilisateur, jai pas le droit d'admin.
+
+![image](https://github.com/ouarriorxx/ProjetBack-Front/assets/143946046/ba9c36c0-a80b-4ca7-bdbb-d12f6f2d2ae6)
+
 
 # Fonctionnalités
 
