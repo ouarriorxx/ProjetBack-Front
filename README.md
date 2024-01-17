@@ -50,6 +50,11 @@ en tabt qu'utilisateur, jai pas le droit d'admin.
 
 ![image](https://github.com/ouarriorxx/ProjetBack-Front/assets/143946046/cac23fef-6e3a-4961-995e-10eebf6c7f39)
 
+# Liste des types des plantes : 
+
+![image](https://github.com/ouarriorxx/ProjetBack-Front/assets/143946046/01f6b6ac-5d40-47c4-8cea-050a03405f33)
+
+
 
 
 # Fonctionnalités
