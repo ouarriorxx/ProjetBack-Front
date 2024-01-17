@@ -46,6 +46,10 @@ en tabt qu'utilisateur, jai pas le droit d'admin.
 
 ![image](https://github.com/ouarriorxx/ProjetBack-Front/assets/143946046/ba9c36c0-a80b-4ca7-bdbb-d12f6f2d2ae6)
 
+• CRUD 
+![image](https://github.com/ouarriorxx/ProjetBack-Front/assets/143946046/771aaf6d-1609-4017-b59a-78efac4f3a52)
+
+
 # Liste des parfelles
 
 ![image](https://github.com/ouarriorxx/ProjetBack-Front/assets/143946046/cac23fef-6e3a-4961-995e-10eebf6c7f39)
