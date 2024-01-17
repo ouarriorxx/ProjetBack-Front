@@ -63,7 +63,8 @@ en tabt qu'utilisateur, jai pas le droit d'admin.
 
 ![image](https://github.com/ouarriorxx/ProjetBack-Front/assets/143946046/01f6b6ac-5d40-47c4-8cea-050a03405f33)
 
-
+• CRUD 
+![image](https://github.com/ouarriorxx/ProjetBack-Front/assets/143946046/a6dd06fc-b5e3-42f9-9dcf-fcdabf6f36ff)
 
 
 # Fonctionnalités
