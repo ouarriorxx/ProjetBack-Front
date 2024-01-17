@@ -68,6 +68,8 @@ en tabt qu'utilisateur, jai pas le droit d'admin.
 
 # La demo en vidéo : Pour le client
 
+La vidéo de démonstration de mon application met en évidence que seuls l'administratrice a le pouvoir d'effectuer les opérations CRUD, tandis que l'accès à ces actions est strictement limité pour le client.
+
 https://github.com/ouarriorxx/ProjetBack-Front/assets/143946046/b27319da-0ec4-4ce9-b1d4-d0eea5219425
 
 # La demo en vidéo : Pour l'admine
