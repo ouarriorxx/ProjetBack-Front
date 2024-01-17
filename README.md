@@ -78,6 +78,14 @@ Dans la démonstration vidéo de mon application, il est clairement illustré qu
 
 https://github.com/ouarriorxx/ProjetBack-Front/assets/143946046/20403eb8-acfa-443c-9e91-e43b14968e92
 
+# Suite des démos :
+ 
+https://github.com/ouarriorxx/ProjetBack-Front/assets/143946046/3d44c915-60b9-4d61-84ab-fc7c84471c70
+
+
+https://github.com/ouarriorxx/ProjetBack-Front/assets/143946046/f387fd45-dbd7-4b33-b974-2dabdd93083d
+
+
 # Fonctionnalités
 
 • Gestion des cultures et des parcelles.
