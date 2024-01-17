@@ -66,6 +66,10 @@ en tabt qu'utilisateur, jai pas le droit d'admin.
 • CRUD 
 ![image](https://github.com/ouarriorxx/ProjetBack-Front/assets/143946046/a6dd06fc-b5e3-42f9-9dcf-fcdabf6f36ff)
 
+# La demo en vidéo : 
+
+https://github.com/ouarriorxx/ProjetBack-Front/assets/143946046/b27319da-0ec4-4ce9-b1d4-d0eea5219425
+
 
 # Fonctionnalités
 
