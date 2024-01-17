@@ -66,10 +66,15 @@ en tabt qu'utilisateur, jai pas le droit d'admin.
 • CRUD 
 ![image](https://github.com/ouarriorxx/ProjetBack-Front/assets/143946046/a6dd06fc-b5e3-42f9-9dcf-fcdabf6f36ff)
 
-# La demo en vidéo : 
+# La demo en vidéo : Pour le client
 
 https://github.com/ouarriorxx/ProjetBack-Front/assets/143946046/b27319da-0ec4-4ce9-b1d4-d0eea5219425
 
+# La demo en vidéo : Pour l'admine
+
+Dans la démonstration vidéo de mon application, il est clairement illustré que seule l'administratrice dispose des autorisations nécessaires pour effectuer les opérations de création, lecture, mise à jour et suppression (CRUD).
+
+https://github.com/ouarriorxx/ProjetBack-Front/assets/143946046/20403eb8-acfa-443c-9e91-e43b14968e92
 
 # Fonctionnalités
 
